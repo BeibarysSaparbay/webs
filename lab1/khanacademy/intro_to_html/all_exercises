@@ -1,0 +1,105 @@
+ex1
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a Poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h2>Romeo and Juliet</h2>
+    <p>
+    Two households, both alike in dignity,<br>
+In fair Verona, where we lay our scene,<br>
+From ancient grudge break to new mutiny,<br>
+Where civil blood makes civil hands unclean.<br>
+From forth the fatal loins of these two foes<br>
+A pair of star-cross'd lovers take their life;<br>
+Whose misadventured piteous overthrows<br>
+Do with their death bury their parents' strife.<br>
+The fearful passage of their death-mark'd love,<br>
+And the continuance of their parents' rage,<br>
+Which, but their children's end, nought could remove,<br>
+Is now the two hours' traffic of our stage;<br>
+The which if you with patient ears attend,<br>
+What here shall miss, our toil shall strive to mend.<br>    
+    </p>
+    </body>
+</html>
+
+
+ex2 
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: You can learn text tags</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        Nobody’s born <em>smart</em>. We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
+        Adding, reading, writing, riding a bike. Nobody’s good at anything at first.<br>
+        There was a time when Einstein couldn’t count to 10.<br>
+        And Shakespeare had to learn his ABCs just like the rest of us.<br>
+        Thankfully, we are <strong>born</strong> to learn.<br>
+        Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+        Frustrating. Confusing. Trying. Struggling.<br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        Each <strong>wrong</strong> answer making your brain a little bit stronger.<br>
+        Failing is just another word for growing. And you keep going.<br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+        Because the most beautiful, complex concepts in the whole universe<br>
+        are built on basic ideas that anyone, anywhere can understand.<br>
+        Whoever you are, wherever you are.<br>
+        </p>
+        <p>
+        You only have to know one thing:<br>
+        You <em>can</em> learn anything.
+        </p>
+    </body>
+</html>
+
+
+ex3 
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <ol>
+        <li>Nigger1</li> 
+        <li>Nigger2</li> 
+        <li>Nigger3</li> 
+       </ol>        
+    </body>
+</html>
+
+
+ex4
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        <p>I would see scenes like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/BrownBlock.png" alt="negs" width="203" height ="303" >
+        
+        <p>And animals like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/CharacterPrincessGirl.png" alt = "Hello" width="203" height = "303" >
+        
+        <p>And eat food like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/BrownBlock.png" alt = "niger" width="203" height ="303">
+        
+        
+    </body>
+</html>
