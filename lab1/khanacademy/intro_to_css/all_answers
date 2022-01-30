@@ -123,3 +123,28 @@ ex3
 
     </body>
 </html>
+
+
+Project:
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            #Wotah {
+                background-color: rgb(184, 127, 184);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <img id="Wotah" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">
+        <ol>
+        <li>S1mple</li>
+        <li>Zywho</li>
+        </ol>
+    </body>
+</html>
+
