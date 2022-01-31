@@ -190,3 +190,44 @@
         
     </body>
 </html>
+
+.project:
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            #span1{
+                color:rgb(242, 53, 207);
+            }
+            #span2{
+                color:rgb(242, 53, 207);
+            }
+            #span3{
+                color:rgb(242, 53, 207);
+            }
+            #div1{
+                background-color:rgb(205, 240, 168);
+            }
+            #div2{
+                background-color:rgb(221, 235, 232);
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div id = "div1">
+        <h1>You're invited!</h1>
+        </div>
+        <h2>To something!</h2>
+        <div id="div2">
+        <p>The details:</p>
+        <ul>
+            <li><span id="span1">Narcos</span></li>
+            <li><span id="span2">Drinks</span></li>
+            <li><span id="span3">Butterflies</span></li>
+        </ul>
+        </div>
+    </body>
+</html>
