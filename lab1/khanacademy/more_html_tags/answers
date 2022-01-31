@@ -101,3 +101,130 @@ ex3
 
     </body>
 </html>
+
+Project:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        #recipe1 {
+            background-color:rgb(207, 157, 207);
+        }
+        #recipe2 {
+            background-color:rgb(207, 157, 207);
+        }
+        #alma{
+            background-color:rgb(224, 117, 224);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>____'s Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Recipe #1</a></li>
+            <li><a href="#recipe2">Recipe #2</a></li>
+            <li><a href="#recipe3">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: _</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>Rolton</td>
+            <td>100</td>
+            </tr>
+            
+            <tr>
+            <td>Kizilwa</td>
+            <td>1</td>
+            </tr>
+            </tbody>
+        </table>
+        <h3>How to do</h3>
+        <p>aslaksmkas</p>
+         <h2 id="recipe2">Recipe #2</h2>
+        
+        <ul>
+            <li>Time: _</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>Rolton</td>
+            <td>100</td>
+            </tr>
+            
+            <tr>
+            <td>Kizilwa</td>
+            <td>1</td>
+            </tr>
+            </tbody>
+        </table>
+       
+        <h3>How to do</h3>
+        <p>aslaksmkas</p>
+       
+        <h2 id="recipe3">Recipe #3</h2>
+        
+        <ul>
+            <li>Time: _</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>Rolton</td>
+            <td>100</td>
+            </tr>
+            
+            <tr>
+            <td>Kizilwa</td>
+            <td>1</td>
+            </tr>
+            </tbody>
+        </table>
+       
+        <h3>How to do</h3>
+        <p id="alma">aslaksmkas</p>
+       
+        <p><strong>Step 1:</strong> Do something.
+</p>
+        
+    <p><em>Source: <a href="https://i.ytimg.com/vi/kT6lJXh2Dak/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBByUAaE3vKp2KC9e7bFlza3aC9wg">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
+
