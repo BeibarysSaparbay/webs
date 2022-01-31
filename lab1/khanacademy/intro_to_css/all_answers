@@ -130,21 +130,38 @@ Project:
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>Spin-off of "Project: Travel webpage"</title>
         <style>
             #Wotah {
                 background-color: rgb(184, 127, 184);
+            }
+            #ate {
+                background-color: rgb(179, 219, 219);
             }
         </style>
     </head>
     <body>
     
         <h1>Travel to ....</h1>
-        <img id="Wotah" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">
+        <img id="Wotah" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-seed.png">  
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-tree.png">
+        <img id="ate" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/avatar-team.png">
+        <ul>
+        <li>S1mple</li>
+        <li>Zywho</li>
+        </ul>
         <ol>
         <li>S1mple</li>
         <li>Zywho</li>
         </ol>
+        
+        <h2>Why is important</h2>
+        <p>Because krko prost juresnba </p>
+        
+        <h2>Kaida</h2>
+        <p>Europega, Americaga </p>
+        
     </body>
 </html>
+
 
